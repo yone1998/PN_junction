@@ -2,4 +2,4 @@ dash
 dash-bootstrap-components
 numpy
 plotly
-gunicorn    ← これを追加
+gunicorn
